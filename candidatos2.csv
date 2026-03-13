@@ -1,39 +1,25 @@
 provincia;partido;nombre;nombre_foto
+AVILA;PP;Cristina Sanchidrián;01_cristina_sanchidrian_pp_avila.jpg
+AVILA;PP;David Beltrán;02_david_beltran_pp_avila.jpg
+AVILA;PP;María Ángeles Prieto;03_maría_angeles_prieto_pp_avila.jpg
+AVILA;PP;David Jiménez;04_david_jimenez_pp_avila.jpg
+AVILA;PP;María del Mar Díaz;05_maria_del_mar_diaz_pp_avila.jpg
 BURGOS;PP;Marta Arroyo Ortega;01_marta_arroyo_ortega_pp_burgos.jpg
 BURGOS;PP;Alejandro Vázquez Ramos;02_alejandro_vazquez_ramos_pp_burgos.jpg
 BURGOS;PP;Belén Vélez Puente;03_belen _velez_puente_pp_burgos.jpg
 BURGOS;PP;Luis Alberto Rasero San Martín;04_luis_alberto_rasero_san_martin_pp_burgos.jpg
 BURGOS;PP;María del Carmen Santillana del Río;05_maría_del_carmen_santillana_del_rio_pp_burgos.jpg
 BURGOS;PP;Adrián Serna del Pozo;06_adrián_serna_del_pozo_pp_burgos.jpg
-BURGOS;PSOE;Daniel de la Rosa;01_daniel_de_la_rosa_psoe_burgos.jpg
-BURGOS;PSOE;Virginia Jiménez;02_virginia_jimenez_psoe_burgos.jpg
-BURGOS;PSOE;Luis Briones;03_luis_briones_psoe_burgos .JPG.jpg
-BURGOS;PSOE;Aida Estrella Paredes;04_aida_estrella_psoe_paredes_burgos.jpg
-BURGOS;PSOE;David Sainz-Aja;05_david_sainz-aja_psoe_burgos.jpg
-BURGOS;VOX;Iñaki Sicilia;01_inaki_sicilia_vox_burgos.jpg
-BURGOS;VOX;Marta Alegría;02_marta_alegria_vox_burgos.jpg
-BURGOS;VOX;Javier Martínez;03_javier_martinez_vox_burgos_.jpg
-LEON;PSOE;Nuria Rubio;01_nuria_rubio_psoe_leon.jpg
-LEON;PSOE;Mario Rivas;02_mario_rivas_psoe_leon.jpg
-LEON;PSOE;María Isabel Fernández;03_maria_isabel_fernadez_psoe_leon.jpg
-LEON;PSOE;Benjamín Fernández Martínez;04_benjamin__fernandez_martinez_psoe_leon.jpg
-LEON;PSOE;Silvia María Cao Fornís;05_silvia_maria_cao_fornis_psoe_leon.jpg
-LEON;UPL;Alicia Gallego González;01_alicia_gallego_gonzalez_upl_leon.jpg
-LEON;UPL;Luis Mariano Santos Reyero;02_luis_mariano_santos_reyero_upl_leon.jpg
-LEON;UPL;Rosa María Quintanilla González;03_rosa_maría_quintanilla_gonzalez_upl_leon.jpg
-LEON;UPL;Antonio Luis Carballo González;04_antonio_luis_carballo_gonzalez_upl_leon.jpg
-LEON;UPL;Lara Pintor Cascón;05_lara_pintor_cascon.jpg
+LEON;PP;María José Álvarez Casais;01_maria_jose_alvarez_casais_pp_leon.jpg
+LEON;PP;Neftalí Fernández;02_neftali_fernandez_pp_leon.jpg
+LEON;PP;Elena Bollo;03_elena_bollo_pp_leon.jpg
+LEON;PP;Antonio Mendoza;04_antonio_mendoza_pp_leon.jpg
+LEON;PP;Olga Pérez;05_olga_perez_pp_leon.jpg
 PALENCIA;PP;Mercedes Cófreces Martín;01_mercedes_cofreces_martin_pp_palencia.jpg
 PALENCIA;PP;Carlos Fernández Carriedo;02_carlos_fernandez_carriedo_pp_palencia.jpg
 PALENCIA;PP;Ana San Millán Vallejo;03_ana_san_millan_vallejo_pp_palencia.jpg
 PALENCIA;PP;Luis Miguel Medina Delgado;04_luis_miguel_medina_delgado_pp_palencia.jpg
 PALENCIA;PP;Anabel García Arristín;05_anabel_garcía_arristin_pp_palencia.jpg
-PALENCIA;PSOE;Miguel Ángel Blanco;01_miguel_angel_blanco_psoe_palencia.jpg
-PALENCIA;PSOE;Pilar García;02_pilar_garcia_psoe_palencia.jpg
-PALENCIA;PSOE;Cristian Delgado;03_cristian_delgado_psoe_palencia.jpg
-PALENCIA;PSOE;Belinda Mencía;04_belinda_mencia_psoe_palencia.jpg
-PALENCIA;VOX;David Hierro;01_david_hierro_vox_palencia.jpg
-PALENCIA;VOX;María Calvo;02_maria_calvo_vox_palencia.jpg
 SALAMANCA;PP;Alfonso Fernández Mañueco;01_alfonso_fernandez_mañueco_pp_salamanca_.jpg
 SALAMANCA;PP;Rosa María Esteban Ayuso;02_rosa_maria_esteban_ayuso_pp_salamanca.jpg
 SALAMANCA;PP;Ángel Porras de la Fuente;03_angel_porras_de_la_fuente_pp_salamanca.jpg
@@ -44,35 +30,14 @@ SALAMANCA;PP;José María Sánchez Martín;07_jose_maria_sanchez_martin_pp_salam
 SALAMANCA;PP;María Candelas González Martín;08_maria_candelas_gonzalez_martin_pp_salamanca.jpg
 SALAMANCA;PP;Enrique Manuel García Mariño;09_enrique_manuel_garcia_mariño_pp_salamanca.jpg
 SALAMANCA;PP;Noemí Fernández Castaño;10_noemi_fernandez_castaño_pp_salamanca.jpg
-SALAMANCA;PSOE;Francisco Díaz;01_francisco_diaz_psoe_salamanca.jpg
-SALAMANCA;PSOE;Noelia Merino;02_noelia_merino_psoe_salamanca.jpg
-SALAMANCA;PSOE;Miguel Ángel Luengo;03_miguel_angel_luengo_psoe_salamanca.jpg
-SALAMANCA;PSOE;María Dolores Pereira;04_maria_dolores_pereira_psoe_salamanca.jpg
 SEGOVIA;PP;Francisco Vázquez;01_francisco _vazquez_pp_segovia.jpg
 SEGOVIA;PP;Elena Rincón;02_elena_rincon_pp_segovia.jpg
 SEGOVIA;PP;José Luis Sanz Merino;03_jose_luis_sanz_merino_pp_segovia.jpg
 SEGOVIA;PP;Elisabet Lázaro;04_elisabet_lazaro_pp_segovia.jpg
 SEGOVIA;PP;Javier Carpio;05_javier_carpio_pp_segovia.jpg
-SEGOVIA;PSOE;Sergio Iglesias;01_sergio_iglesias_psoe_segovia.jpg
-SEGOVIA;PSOE;Paloma Ramírez;02_paloma_ramirez_psoe_segovia.jpg
-SEGOVIA;PSOE;Carlos Fraile;03_carlos_fraile_psoe_segovia.jpg
 SORIA;PP;Rocío Lucas;01_rocio_lucas_pp_soria.jpg
 SORIA;PP;José Damián Ferrero;02_jose_damian_ferrero_pp_soria.jpg
 SORIA;PP;Irene Carmona;03_irene_carmona_pp_soria.jpg
-SORIA;PSOE;Carlos Martínez;01_carlos_martinez_psoe_soria.jpg
-SORIA;PSOE;Esther Pérez;02_esther_perez_psoe_soria.jpg
-SORIA;PSOE;Jesús Cedazo;03_jesus_cedazo_psoe_soria.jpg
-SORIA;SORIA YA;Ángel Ceña;01_angel_cena_soriaya_soria.jpg
-SORIA;SORIA YA;María Inmaculada Ramos;02_maria_inmaculada_ramos_soriaya_soria.jpg
-SORIA;SORIA YA;Antonio Palomar Sicilia;03_antonio_palomar_sicilia_soriaya_soria.jpg
-SORIA;SORIA YA;Jaione Ovejero Muñoz;04_jaione_ovejero_munoz_soriaya_soria.jpg
-SORIA;SORIA YA;Joel Martínez Moreno;05_joel_martínez_moreno_soriaya_soria.jpg
-SORIA;SORIA YA;María Concepción Álvarez Sacristán;06_maria_concepción_alvarez_sacristan_soriaya_soria.jpg
-SORIA;SORIA YA;Fernando del Amo Gallego;07_fernando_del_amo_gallego_soriaya_soria.jpg
-SORIA;VOX;Miguel Contreras;01_miguel_contreras_vox_soria.jpg
-SORIA;VOX;Sara López;02_sara_lopez_vox_soria.jpg
-SORIA;VOX;Fernando Castillo;03_fernando_castillo_vox_soria.jpg
-VALLADOLID;PODEMOS;Miguel Ángel Llamas;01_miguel_angel_llamas_podemos__Valladolid.jpg
 VALLADOLID;PP;María Pardo;01_maria_pardo_pp_valladolid.jpg
 VALLADOLID;PP;José María Eiros;02_jose_maria_eiros_pp_valladolid_.jpg
 VALLADOLID;PP;Paloma Vallejo Quevedo;03_paloma_vallejo_quevedo_pp_valladolid.jpg
@@ -80,25 +45,82 @@ VALLADOLID;PP;Borja del Barrio Casado;04_borja_del_barrio_casado.jpg
 VALLADOLID;PP;Noemí Rojo;05_noemi_rojo_pp_valladolid.jpg
 VALLADOLID;PP;Víctor Alonso Monge;06_victor_alonso_monge_pp_valladolid.jpg
 VALLADOLID;PP;María Antonia López Sáenz Santamaría;07_maria_antonia_lopez_saenz_santamaria_pp_valladolid.jpg
-VALLADOLID;PSOE;Patricia Gómez Urbán;01_patricia_gomez_urban_psoe_valladolid.jpg
-VALLADOLID;PSOE;Pedro González;02_pedro_gonzalez_psoe_valladolid.jpg
-VALLADOLID;PSOE;Laura Pelegrino;03_laura_pelegrino_psoe_valladolid.jpg
-VALLADOLID;PSOE;Sergio García;04_sergio_garcia_psoe_valladolid.jpg
-VALLADOLID;PSOE;Ana Casado;05_ana_casado_psoe_valladolid.jpg
-VALLADOLID;PSOE;Diego Vallejo;06_diego_vallejo_psoe_valladolid.jpg
-VALLADOLID;IU;Juan Gascón;01_juan_gascon_iu_valladolid.jpg
-ZAMORA;PSOE;Iñaki Gómez;01_iñaki_gomez_psoe_zamora.jpg
-ZAMORA;PSOE;Patricia Martín;02_patricia_martin_psoe_zamora.jpg
-ZAMORA;PSOE;Javier García Martín;03_javier_garcia_martin_psoe_zamora.jpg
-AVILA;POR AVILA;Pedro José Pascual Muñoz;01_pedro_jose_pascual_muñoz_poravila_avila.jpg
-AVILA;POR AVILA;Pilar Muñoyerro;02_pilar_munoyerro_poravila_avila.jpg
-AVILA;PP;Cristina Sanchidrián;01_cristina_sanchidrian_pp_avila.jpg
-AVILA;PP;David Beltrán;02_david_beltran_pp_avila.jpg
-AVILA;PP;María Ángeles Prieto;03_maría_angeles_prieto_pp_avila.jpg
-AVILA;PP;David Jiménez;04_david_jimenez_pp_avila.jpg
-AVILA;PP;María del Mar Díaz;05_maria_del_mar_diaz_pp_avila.jpg
+ZAMORA;PP;Leticia García;01_leticia_garcia_pp_zamora.jpg
+ZAMORA;PP;José Luis Barigón;02_jose_luis_barigon_pp_zamora.jpg
+ZAMORA;PP;Isabel Blanco;03_isabel_blanco_pp_zamora.jpg
+ZAMORA;PP;Juan del Canto Sevillano;04_juan_del_canto_sevillano_pp_leon.jpg
 AVILA;PSOE;Carmen Iglesias;01_carmen_iglesias_psoe_avila.jpg
 AVILA;PSOE;Iván Zazo;02_ivan_zazo_psoe_avila.jpg
 AVILA;PSOE;Natalia Torrecilla;03_natalia_torrecilla_psoe_avila.jpg
+BURGOS;PSOE;Daniel de la Rosa;01_daniel_de_la_rosa_psoe_burgos.jpg
+BURGOS;PSOE;Virginia Jiménez;02_virginia_jimenez_psoe_burgos.jpg
+BURGOS;PSOE;Luis Briones;03_luis_briones_psoe_burgos .JPG.jpg
+BURGOS;PSOE;Aída Estrella Paredes;04_aida_estrella_psoe_paredes_burgos.jpg
+BURGOS;PSOE;David Sainz-Aja;05_david_sainz-aja_psoe_burgos.jpg
+LEON;PSOE;Nuria Rubio;01_nuria_rubio_psoe_leon.jpg
+LEON;PSOE;Mario Rivas;02_mario_rivas_psoe_leon.jpg
+LEON;PSOE;María Isabel Fernández;03_maria_isabel_fernadez_psoe_leon.jpg
+LEON;PSOE;Benjamín Fernández Martínez;04_benjamin__fernandez_martinez_psoe_leon.jpg
+LEON;PSOE;Silvia María Cao Fornís;05_silvia_maria_cao_fornis_psoe_leon.jpg
+PALENCIA;PSOE;Miguel Ángel Blanco;01_miguel_angel_blanco_psoe_palencia.jpg
+PALENCIA;PSOE;Pilar García;02_pilar_garcia_psoe_palencia.jpg
+PALENCIA;PSOE;Cristian Delgado;03_cristian_delgado_psoe_palencia.jpg
+PALENCIA;PSOE;Belinda Mencía;04_belinda_mencia_psoe_palencia.jpg
+SALAMANCA;PSOE;Francisco Díaz;01_francisco_diaz_psoe_salamanca.jpg
+SALAMANCA;PSOE;Noelia Merino;02_noelia_merino_psoe_salamanca.jpg
+SALAMANCA;PSOE;Miguel Ángel Luengo;03_miguel_angel_luengo_psoe_salamanca.jpg
+SALAMANCA;PSOE;María Dolores Pereira;04_maria_dolores_pereira_psoe_salamanca.jpg
+SEGOVIA;PSOE;Sergio Iglesias;01_sergio_iglesias_psoe_segovia.jpg
+SEGOVIA;PSOE;Paloma Ramírez;02_paloma_ramirez_psoe_segovia.jpg
+SEGOVIA;PSOE;Carlos Fraile;03_carlos_fraile_psoe_segovia.jpg
+SORIA;PSOE;Carlos Martínez;01_carlos_martinez_psoe_soria.jpg
+SORIA;PSOE;Esther Pérez;02_esther_perez_psoe_soria.jpg
+SORIA;PSOE;Jesús Cedazo;03_jesus_cedazo_psoe_soria.jpg
+VALLADOLID;PSOE;Patricia Gómez Urbán;01_patricia_gomez_urban_psoe_valladolid.jpg
+VALLADOLID;PSOE;Pedro González;02_pedro_gonzalez_psoe_valladolid.jpg
+VALLADOLID;PSOE;Laura Pelegrina;03_laura_pelegrino_psoe_valladolid.jpg
+VALLADOLID;PSOE;Sergio García;04_sergio_garcia_psoe_valladolid.jpg
+VALLADOLID;PSOE;Ana Casado;05_ana_casado_psoe_valladolid.jpg
+VALLADOLID;PSOE;Diego Vallejo;06_diego_vallejo_psoe_valladolid.jpg
+ZAMORA;PSOE;Iñaki Gómez;01_iñaki_gomez_psoe_zamora.jpg
+ZAMORA;PSOE;Patricia Martín;02_patricia_martin_psoe_zamora.jpg
+ZAMORA;PSOE;Javier García Martín;03_javier_garcia_martin_psoe_zamora.jpg
 AVILA;VOX;José Antonio Palomo;01_jose_antonio_palomo_vox_avila.jpg
 AVILA;VOX;Clara Rubio;02_clara_rubio_vox_avila.jpg
+BURGOS;VOX;Iñaki Sicilia;01_inaki_sicilia_vox_burgos.jpg
+BURGOS;VOX;Marta Alegría;02_marta_alegria_vox_burgos.jpg
+BURGOS;VOX;Javier Martínez;03_javier_martinez_vox_burgos_.jpg
+LEON;VOX;Carlos Pollán;01_carlos_pollan_vox_leon.jpg
+LEON;VOX;Laura Dorreis;02_laura_dorreis_vox_leon.jpg
+PALENCIA;VOX;David Hierro;01_david_hierro_vox_palencia.jpg
+PALENCIA;VOX;María Calvo;02_maria_calvo_vox_palencia.jpg
+SALAMANCA;VOX;María Dolores Mateo;02_maria_dolores_mateo_vox_salamanca.jpg
+SALAMANCA;VOX;Mauricio Angulo;03_mauricio_angulo_vox_salamanca.jpg
+SEGOVIA;VOX;Susana Suárez;01_susana_suarez_vox_segovia.jpg
+SEGOVIA;VOX;Enrique Jiménez;02_enrique_jimenez_vox_segovia.jpg
+SORIA;VOX;Miguel Contreras;01_miguel_contreras_vox_soria.jpg
+SORIA;VOX;Sara López;02_sara_lopez_vox_soria.jpg
+SORIA;VOX;Fernando Castillo;03_fernando_castillo_vox_soria.jpg
+VALLADOLID;VOX;Alberto Díaz;01_alberto_diaz_vox_valladolid.jpg
+VALLADOLID;VOX;Fátima Pinacho;02_fatima_pinacho_vox_valladolid.jpg
+VALLADOLID;VOX;Jesús Jiménez;03_jesus_jimenez_vox_valladolid.jpg
+VALLADOLID;VOX;Silvia Guilarte;04_silvia_guilarte_vox_valladolid.jpg
+VALLADOLID;VOX;Mariano Veganzones;05_mariano_veganzones_vox_valladolid.jpg
+ZAMORA;VOX;Marisa Calvo;01_marisa_calvo_vox_zamora.jpg
+ZAMORA;VOX;Jonathan García;02_jonathan_garcia_vox_zamora.jpg
+SORIA;SORIA YA;Ángel Ceña;01_angel_cena_soriaya_soria.jpg
+SORIA;SORIA YA;María Inmaculada Ramos;02_maria_inmaculada_ramos_soriaya_soria.jpg
+SORIA;SORIA YA;Antonio Palomar Sicilia;03_antonio_palomar_sicilia_soriaya_soria.jpg
+SORIA;SORIA YA;Jaione Ovejero Muñoz;04_jaione_ovejero_munoz_soriaya_soria.jpg
+SORIA;SORIA YA;Joel Martínez Moreno;05_joel_martínez_moreno_soriaya_soria.jpg
+SORIA;SORIA YA;María Concepción Álvarez Sacristán;06_maria_concepción_alvarez_sacristan_soriaya_soria.jpg
+SORIA;SORIA YA;Fernando del Amo Gallego;07_fernando_del_amo_gallego_soriaya_soria.jpg
+LEON;UPL;Alicia Gallego González;01_alicia_gallego_gonzalez_upl_leon.jpg
+LEON;UPL;Luis Mariano Santos Reyero;02_luis_mariano_santos_reyero_upl_leon.jpg
+LEON;UPL;Rosa María Quintanilla González;03_rosa_maría_quintanilla_gonzalez_upl_leon.jpg
+LEON;UPL;Antonio Luis Carballo González;04_antonio_luis_carballo_gonzalez_upl_leon.jpg
+LEON;UPL;Lara Pintor Cascón;05_lara_pintor_cascon.jpg
+AVILA;POR AVILA;Pedro José Pascual Muñoz;01_pedro_jose_pascual_muñoz_poravila_avila.jpg
+AVILA;POR AVILA;Pilar Muñoyerro;02_pilar_munoyerro_poravila_avila.jpg
+VALLADOLID;PODEMOS;Miguel Ángel Llamas;01_miguel_angel_llamas_podemos__Valladolid.jpg
+VALLADOLID;IU;Juan Gascón;01_juan_gascon_iu_valladolid.jpg
