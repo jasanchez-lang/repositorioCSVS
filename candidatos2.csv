@@ -1,4 +1,5 @@
 provincia;partido;nombre;nombre_foto
+SALAMANCA;PP;Alfonso Fernández Mañueco;01_alfonso_fernandez_mañueco_pp_salamanca_.jpg
 AVILA;PP;Cristina Sanchidrián;01_cristina_sanchidrian_pp_avila.jpg
 AVILA;PP;David Beltrán;02_david_beltran_pp_avila.jpg
 AVILA;PP;María Ángeles Prieto;03_maría_angeles_prieto_pp_avila.jpg
@@ -20,7 +21,6 @@ PALENCIA;PP;Carlos Fernández Carriedo;02_carlos_fernandez_carriedo_pp_palencia.
 PALENCIA;PP;Ana San Millán Vallejo;03_ana_san_millan_vallejo_pp_palencia.jpg
 PALENCIA;PP;Luis Miguel Medina Delgado;04_luis_miguel_medina_delgado_pp_palencia.jpg
 PALENCIA;PP;Anabel García Arristín;05_anabel_garcía_arristin_pp_palencia.jpg
-SALAMANCA;PP;Alfonso Fernández Mañueco;01_alfonso_fernandez_mañueco_pp_salamanca_.jpg
 SALAMANCA;PP;Rosa María Esteban Ayuso;02_rosa_maria_esteban_ayuso_pp_salamanca.jpg
 SALAMANCA;PP;Ángel Porras de la Fuente;03_angel_porras_de_la_fuente_pp_salamanca.jpg
 SALAMANCA;PP;María del Carmen Sánchez Bellota;04_maria_del_armen_sanchez_bellota_pp_salamanca.jpg
@@ -49,6 +49,7 @@ ZAMORA;PP;Leticia García;01_leticia_garcia_pp_zamora.jpg
 ZAMORA;PP;José Luis Barigón;02_jose_luis_barigon_pp_zamora.jpg
 ZAMORA;PP;Isabel Blanco;03_isabel_blanco_pp_zamora.jpg
 ZAMORA;PP;Juan del Canto Sevillano;04_juan_del_canto_sevillano_pp_leon.jpg
+SORIA;PSOE;Carlos Martínez;01_carlos_martinez_psoe_soria.jpg
 AVILA;PSOE;Carmen Iglesias;01_carmen_iglesias_psoe_avila.jpg
 AVILA;PSOE;Iván Zazo;02_ivan_zazo_psoe_avila.jpg
 AVILA;PSOE;Natalia Torrecilla;03_natalia_torrecilla_psoe_avila.jpg
@@ -73,7 +74,6 @@ SALAMANCA;PSOE;María Dolores Pereira;04_maria_dolores_pereira_psoe_salamanca.jp
 SEGOVIA;PSOE;Sergio Iglesias;01_sergio_iglesias_psoe_segovia.jpg
 SEGOVIA;PSOE;Paloma Ramírez;02_paloma_ramirez_psoe_segovia.jpg
 SEGOVIA;PSOE;Carlos Fraile;03_carlos_fraile_psoe_segovia.jpg
-SORIA;PSOE;Carlos Martínez;01_carlos_martinez_psoe_soria.jpg
 SORIA;PSOE;Esther Pérez;02_esther_perez_psoe_soria.jpg
 SORIA;PSOE;Jesús Cedazo;03_jesus_cedazo_psoe_soria.jpg
 VALLADOLID;PSOE;Patricia Gómez Urbán;01_patricia_gomez_urban_psoe_valladolid.jpg
@@ -85,12 +85,12 @@ VALLADOLID;PSOE;Diego Vallejo;06_diego_vallejo_psoe_valladolid.jpg
 ZAMORA;PSOE;Iñaki Gómez;01_iñaki_gomez_psoe_zamora.jpg
 ZAMORA;PSOE;Patricia Martín;02_patricia_martin_psoe_zamora.jpg
 ZAMORA;PSOE;Javier García Martín;03_javier_garcia_martin_psoe_zamora.jpg
+LEON;VOX;Carlos Pollán;01_carlos_pollan_vox_leon.jpg
 AVILA;VOX;José Antonio Palomo;01_jose_antonio_palomo_vox_avila.jpg
 AVILA;VOX;Clara Rubio;02_clara_rubio_vox_avila.jpg
 BURGOS;VOX;Iñaki Sicilia;01_inaki_sicilia_vox_burgos.jpg
 BURGOS;VOX;Marta Alegría;02_marta_alegria_vox_burgos.jpg
 BURGOS;VOX;Javier Martínez;03_javier_martinez_vox_burgos_.jpg
-LEON;VOX;Carlos Pollán;01_carlos_pollan_vox_leon.jpg
 LEON;VOX;Laura Dorreis;02_laura_dorreis_vox_leon.jpg
 PALENCIA;VOX;David Hierro;01_david_hierro_vox_palencia.jpg
 PALENCIA;VOX;María Calvo;02_maria_calvo_vox_palencia.jpg
